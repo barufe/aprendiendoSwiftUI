@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		205A907E2C6EF355001D9BB5 /* VentanaModals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205A907D2C6EF355001D9BB5 /* VentanaModals.swift */; };
 		20B66A8C2C5EEE2F005F8DFA /* AprendiendoSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B66A8B2C5EEE2F005F8DFA /* AprendiendoSwiftUIApp.swift */; };
 		20B66A8E2C5EEE2F005F8DFA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B66A8D2C5EEE2F005F8DFA /* ContentView.swift */; };
 		20B66A902C5EEE30005F8DFA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20B66A8F2C5EEE30005F8DFA /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		205A907D2C6EF355001D9BB5 /* VentanaModals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VentanaModals.swift; sourceTree = "<group>"; };
 		20B66A882C5EEE2F005F8DFA /* AprendiendoSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AprendiendoSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B66A8B2C5EEE2F005F8DFA /* AprendiendoSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AprendiendoSwiftUIApp.swift; sourceTree = "<group>"; };
 		20B66A8D2C5EEE2F005F8DFA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				20B66A8D2C5EEE2F005F8DFA /* ContentView.swift */,
 				20B66A8F2C5EEE30005F8DFA /* Assets.xcassets */,
 				20B66A912C5EEE30005F8DFA /* Preview Content */,
+				205A907D2C6EF355001D9BB5 /* VentanaModals.swift */,
 			);
 			path = AprendiendoSwiftUI;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				20B66A8E2C5EEE2F005F8DFA /* ContentView.swift in Sources */,
 				20B66A8C2C5EEE2F005F8DFA /* AprendiendoSwiftUIApp.swift in Sources */,
+				205A907E2C6EF355001D9BB5 /* VentanaModals.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
