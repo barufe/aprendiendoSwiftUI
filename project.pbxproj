@@ -17,6 +17,8 @@
 		20B66A9D2C5EEE30005F8DFA /* AprendiendoSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B66A9C2C5EEE30005F8DFA /* AprendiendoSwiftUITests.swift */; };
 		20B66AA72C5EEE30005F8DFA /* AprendiendoSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B66AA62C5EEE30005F8DFA /* AprendiendoSwiftUIUITests.swift */; };
 		20B66AA92C5EEE30005F8DFA /* AprendiendoSwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B66AA82C5EEE30005F8DFA /* AprendiendoSwiftUIUITestsLaunchTests.swift */; };
+		20F0629F2C6FE320005F5B10 /* TabViewMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F0629E2C6FE320005F5B10 /* TabViewMain.swift */; };
+		20F062A12C6FE341005F5B10 /* Vista2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F062A02C6FE341005F5B10 /* Vista2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +52,8 @@
 		20B66AA22C5EEE30005F8DFA /* AprendiendoSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AprendiendoSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20B66AA62C5EEE30005F8DFA /* AprendiendoSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AprendiendoSwiftUIUITests.swift; sourceTree = "<group>"; };
 		20B66AA82C5EEE30005F8DFA /* AprendiendoSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AprendiendoSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		20F0629E2C6FE320005F5B10 /* TabViewMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewMain.swift; sourceTree = "<group>"; };
+		20F062A02C6FE341005F5B10 /* Vista2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vista2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +111,8 @@
 				20B66A8F2C5EEE30005F8DFA /* Assets.xcassets */,
 				20B66A912C5EEE30005F8DFA /* Preview Content */,
 				205A907D2C6EF355001D9BB5 /* VentanaModals.swift */,
+				20F0629E2C6FE320005F5B10 /* TabViewMain.swift */,
+				20F062A02C6FE341005F5B10 /* Vista2.swift */,
 			);
 			path = AprendiendoSwiftUI;
 			sourceTree = "<group>";
@@ -271,6 +277,8 @@
 				205A90802C6F0A4B001D9BB5 /* SegundaVista.swift in Sources */,
 				205A907E2C6EF355001D9BB5 /* VentanaModals.swift in Sources */,
 				205A90822C6F0C74001D9BB5 /* TercerVista.swift in Sources */,
+				20F0629F2C6FE320005F5B10 /* TabViewMain.swift in Sources */,
+				20F062A12C6FE341005F5B10 /* Vista2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
